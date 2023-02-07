@@ -30,3 +30,4 @@ Use this space to list group members names, contributions, and link github pages
 
 ### Group Information (Group Members)
 
+Sheniqua Glover
